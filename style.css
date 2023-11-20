@@ -227,7 +227,7 @@ section .title::after {
 .about .about-content .left img {
   height: 600px;
   width: 450px;
-  object-fit: cover;
+  object-fit: fill;
   border-radius: 6px;
 }
 .about .about-content .right {
@@ -238,7 +238,7 @@ section .title::after {
   font-weight: 600;
   margin-bottom: 10px;
 }
-/* Animasi profesi blogger, designer*/
+/* Animasi profesi front end dev, designer*/
 .about .about-content .right .text span {
   color: lightseagreen;
 }
